@@ -9,11 +9,11 @@ There is also a video on the page that will tell you how the program works and h
 
 Privacy Policy for Smile LLC
 
-At http://03ba2c98dc22.ngrok.io, accessible from http://03ba2c98dc22.ngrok.io, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by http://03ba2c98dc22.ngrok.io and how we use it.
+At https://smilecreator.tk, accessible from https://smilecreator.tk, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by https://smilecreator.tk and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in http://03ba2c98dc22.ngrok.io. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Free Privacy Policy Generator.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in https://smilecreator.tk. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Free Privacy Policy Generator.
 Consent
 
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
@@ -38,17 +38,17 @@ We use the information we collect in various ways, including to:
 
 Log Files
 
-http://03ba2c98dc22.ngrok.io follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+https://smilecreator.tk follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 Advertising Partners Privacy Policies
 
 You may consult this list to find the Privacy Policy for each of the advertising partners of http://03ba2c98dc22.ngrok.io.
 
-Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on http://03ba2c98dc22.ngrok.io, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on https://smilecreator.tk, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-Note that http://03ba2c98dc22.ngrok.io has no access to or control over these cookies that are used by third-party advertisers.
+Note that https://smilecreator.tk has no access to or control over these cookies that are used by third-party advertisers.
 Third Party Privacy Policies
 
-http://03ba2c98dc22.ngrok.io's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+https://smilecreator.tk's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 CCPA Privacy Rights (Do Not Sell My Personal Information)
@@ -83,7 +83,7 @@ Children's Information
 
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-http://03ba2c98dc22.ngrok.io does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+https://smilecreator.tk does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 
 https://www.privacypolicygenerator.info/live.php?token=fDn6OdWxCUvpjRS1YWIHUwvvanIG7hqF
