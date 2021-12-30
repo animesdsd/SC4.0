@@ -12,4 +12,4 @@ https://www.privacypolicygenerator.info/live.php?token=fDn6OdWxCUvpjRS1YWIHUwvva
 
 We are organized guys who are willing to create the best server hacking experience for you.
 
-https://smilecreator.tk/cheat.gif (AD)
+<img src="https://smilecreator.tk/cheat.gif" (AD)
